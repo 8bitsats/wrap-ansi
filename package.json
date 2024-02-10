@@ -55,7 +55,8 @@
 	"dependencies": {
 		"ansi-styles": "^6.2.1",
 		"string-width": "^7.0.0",
-		"strip-ansi": "^7.1.0"
+		"strip-ansi": "^7.1.0",
+		"wrap-ansi": "^9.0.0"
 	},
 	"devDependencies": {
 		"ava": "^5.3.1",
